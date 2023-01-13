@@ -1,6 +1,6 @@
 <div align="center">
   
-![Hadestia's Stats](https://github-readme-stats.vercel.app/api?username=Hadestia&show_icons=true&theme=transparent))
+![Hadestia's Stats](https://github-readme-stats.vercel.app/api?username=Hadestia&show_icons=true&theme=transparent)
   
 ![Hadestia's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Hadestia&theme=tokyonight&hide_border=true)
   
